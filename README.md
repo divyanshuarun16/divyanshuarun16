@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyanshuarun16
+- 👋 Hi, I’m Divyanshu Arun
 - 👀 I’m interested in java script and Java programming languaget
 - 💞️ I’m looking to collaborate on open source for which require techsatck of java and springBoot projects
 - 📫 How to reach me - email: divyanshuarun16@gmail.com
